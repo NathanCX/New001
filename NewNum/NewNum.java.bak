@@ -1,0 +1,16 @@
+
+public class NewNum{
+	public static void main (String[] args ){
+		
+		//int i = 10;
+		 //int newNum = 10 * i++;
+		//int newNum = 10 * ++i;
+		
+		double d = 4.5;
+		int i = (int)d;
+		//System.out.println((int)1.7);
+		System.out.println("i =" + i + " " + " ," + "d+" +d  );
+		
+		//System.out.println("NewNum is " + newNum + " " +"i =" + i);
+		}
+	}
