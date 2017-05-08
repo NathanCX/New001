@@ -7,7 +7,7 @@ public class Cylinder{
 		 //提示输入圆柱体的半径和高
 		 double radius = input.nextDouble();
 		 double length = input.nextDouble();
-		 double PI = 3.14159;
+		 final double PI = 3.14159;
 		 
 		 double Area = radius * radius * PI ;
 		 double volume = Area * length;
